@@ -1,2 +1,1 @@
-# hbdbiya
 # semprotulationvila
